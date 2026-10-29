@@ -2,7 +2,7 @@ $ git checkout main
 Switched to branch 'main'
 
 $ git merge bug-fix-typo
-Updating 7c12345..8d56789
+Updating abc1234..def5678
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
